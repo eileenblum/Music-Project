@@ -1,0 +1,46 @@
+[Part B - Elevation - 5]
+
+[Boarding Platform Hostess:]
+"Your attention please.
+Boarding platform A-51, shuttle for the Colonist I spacecraft only, leaving for Nyros at twenty thirty E.T., please comply with the boarding routine and stay out of the restricted areas.
+For Colonists II and III, please head for the appropriate boarding zones.
+We wish you a nice interstellar trip."
+
+[Colonists:]
+"We are boarding
+We are leaving
+We'll be travelling
+Arken cruisers nearby watching over us
+Something's wrong inside"
+
+[Realitionists:]
+"This is our only chance to release mankind
+Free from this mastery, leave our world behind"
+
+Too late now, the ship has been taken by force
+Destination alteration
+Hiding away, the League will not find them
+No one can stop
+Their desperate quest for a brand new virgin land
+
+Too hasty, for they have folded
+Space... and the unexpected
+
+[Realitionists:]
+"A new dawn has come
+System in sight
+But nothing else, no other glowing light
+Something's wrong outside"
+
+[Colonist I:]
+"No entry found in memory, system unregistered
+Error in triangulation coordinates
+Unable to find any referenced celestial body
+Presumable location: out of the known universe"
+
+[Keiji:]
+"Sole hospitable place, this satellite
+Lands and their oceans, blue and white
+I fear this world to be our shrine
+For we are now guests of Proserpine"
+

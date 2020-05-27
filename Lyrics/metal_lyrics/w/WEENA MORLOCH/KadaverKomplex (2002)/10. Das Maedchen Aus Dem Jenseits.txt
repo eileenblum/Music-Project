@@ -1,0 +1,11 @@
+[MÃ¤dchen:] "Daddy, please don't leave me alone - don't leave - please answer - speak to me - Daddy please - please answer - Daddy!"
+[Lautsprecherdurchsage:] "Dr. Watkins bitte in den OP" [8x]
+[Frau:] "Sie hat schon seit Monaten keinen Besuch mehr gehabt."
+[Mann:] "Wie lange werden wir sie noch am Leben halten kÃ¶nnen?"
+[Frau:] "Ich fÃ¼rchte, nicht mehr lange. Das arme MÃ¤dchen hat Knochenmarkkrebs, Dr. Davious -
+Ich finde es einfach schrecklich. Sie ist so ein nettes, intelligentes Kind, ihr Zustand wird von Woche zu Woche schlimmer. Wir wissen genau, dass wir ihr nicht helfen kÃ¶nnen (...) Ihre Eltern haben sich getrennt, soviel ich weiÃ lebt die Mutter in Europa."
+[Mann:] "Und ihr Vater besucht sie auch nicht, wenn ich sie recht verstehe?"
+[Frau:] "Stimmt. Ich finde sie (...) nach der ersten Amputation hat er sich nicht mehr blicken lassen."
+[Lautsprecherdurchsage:] "Dr. Watkins, bitte in den OP" [16x]
+[MÃ¤dchen:] [nebenbei gerÃ¤usch von Freizeichen] "Daddy, please don't leave me alone - don't leave - please answer - speak to me - Daddy please - please answer - Daddy!"
+

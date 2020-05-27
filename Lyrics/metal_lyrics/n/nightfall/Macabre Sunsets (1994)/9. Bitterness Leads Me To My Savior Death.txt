@@ -1,0 +1,9 @@
+[Previous version]
+
+In some of the lyrics and songtitles greek words are
+used (written in greek letters). I've converted these
+to Latin letters and marked them with an underscore
+(_like this_).
+Bob (bobw@stack.urc.tue.nl).
+
+

@@ -1,0 +1,11 @@
+Reset
+Utilize auxiliary power source
+Execute jump instruction
+Targets: cylinder 0, head 0, sector 1
+Online
+Oxygen levels: nominal
+Organic compounds detected
+Execute waste dump
+Opening aft valves... valves open
+Sequence initiated
+

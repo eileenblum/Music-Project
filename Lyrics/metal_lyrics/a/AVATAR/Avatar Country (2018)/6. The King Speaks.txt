@@ -1,0 +1,20 @@
+"The King is now stepping out into the balcony, to the cheers of the crowd. He is wearing the royal cape and crown, and seems to be in good health. His mustache is in excellent condition this morning, which of course is a good sign for an early spring. He is now getting ready to speak."
+[The King speaks]
+"My dear citizens"
+[The King speaks]
+"Today is a great day for me, and therefore, of course, for the whole kingdom."
+[The King speaks]
+"I have the great privilege to announce that the royal enema has been carried through with success, and that my Majesty is no longer constipated."
+[The King speaks]
+"Naturally, this is particularly good news for the peasantry in our beautiful country, and we ought to expect excellent productivity out of the fields."
+[The King speaks]
+"Furthermore"
+[The King speaks]
+"I took a bath this morning. The crowd cheers."
+[The King speaks]
+"The bath was warm, dignified, and reinvigorating. And I look forward to see what the Royal Brewery will be able to achieve with my Majesty's royal residue."
+[The King speaks]
+"Very well, that was all for today."
+[The King speaks]
+"Now, it's time for volleyball. Live well, my citizens. God save the King."
+

@@ -1,0 +1,6 @@
+Pilot: Gold Coast ground, good morning. Trinidad Hotel Bravo Bravo 2POB, received Charlie, for Lismore.
+Request taxi and airways clearance.
+Tower: Hotel Bravo Bravo, Gold Coastground, cleared to runway 14, cross 17, track to Lismore at 5000 feet. Squawk1735.
+Pilot: Cleared to runway 14, cross17, track to Lismore at 5000 feet, squawk 1735 Hotel Bravo Bravo. Hotel Bravo Bravo is read.
+Tower: Hotel Bravo Bravo, line up and hold. Hotel Bravo Bravo, cleared for takeoff. Make right turn and track direct to Lismore at 5000 feet.
+

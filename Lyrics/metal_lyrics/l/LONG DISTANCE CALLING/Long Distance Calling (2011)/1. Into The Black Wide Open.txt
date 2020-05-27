@@ -1,0 +1,8 @@
+[female voice]: "Please, tell me: Why did you come to our planet?"
+
+[male voice]: "Your planet?"
+
+[female voice]: "Yes! This is our planet."
+
+[male voice]: "No, it is not!"
+

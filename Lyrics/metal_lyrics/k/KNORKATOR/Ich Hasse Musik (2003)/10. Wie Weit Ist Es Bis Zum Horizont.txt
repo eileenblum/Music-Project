@@ -1,0 +1,40 @@
+Wie weit mag es sein
+bis zum Horizont?
+Diese Frage will ich euch beantworten.
+Steh ich auf der Welt,
+meines Blickes Strahl
+trifft die Erde als Tangente am Horizont.
+Dann um 90 Grad
+Bis zum Erdmittelpunkt
+hab ich den Erdradius.
+Nun zurÃ¼ck zu meinem Kopf
+Radius plust ein Mensch
+gibt ein rechtwinkliges Dreieck.
+
+Wie weit ist es bis zum Horizont?
+
+Diese Entfernung ist "a",
+der Radius ist "b",
+Mittelpunkt bis Kopf ist die Seite "c".
+Nehmen wir den Satz
+des Pythagoras:
+aÂ² + bÂ² = cÂ²
+Stellen wir dieses um,
+so errechnet sich "a"
+aus der Wurzel der Differenz
+zwischen c zum Quadrat minus b zum Quadrat
+Fehlen nur noch die Zahlen.
+
+Wie weit ist es bis zum Horizont?
+
+Der Erdradius "b"
+misst in etwa 6.378.000 m
+C = 6.378.001,70 m
+Bildet man die Quadrate,
+So ist deren Differenz
+21.680.000
+Nun die Wurzel daraus:
+4650 Meter!
+
+So weit ist es bis zum Horizont.
+

@@ -1,0 +1,19 @@
+Aim:
+To analyze second hand data
+to see if boyleâs law and charles' law hold true for hydrogen and carbon
+dioxide under certain conditions
+therefore we are looking to see if the pressure and volume of these gasses is
+inversely
+proportional at a fixed temperature and if the mass of these
+gasses increases and decreases by the same amount as its temperature on the
+kelvin scale
+the mathematical relationship for boyleâs law is p1 v1 = p2 v2
+the mathematical relationship for charlesâ law is v1 / t1 = v2 / t2
+the pressure of hydrogen gas does increase proportionally with volume therefore
+following boyleâs law
+the volume of hydrogen increased proportionally with temperature therefore
+following charlesâ law
+the gas laws apply better to hydrogen
+i suggest this because the results for hydrogen increased
+in a more regular manner than those of carbon dioxide.
+

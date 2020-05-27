@@ -1,0 +1,8 @@
+
+Grams: guitars
+Tom: bass
+Richard: guitars
+Trivette: vocals
+Anthony: drums
+
+

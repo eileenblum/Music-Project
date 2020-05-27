@@ -1,0 +1,32 @@
+[Part B - Elevation - 2]
+
+[The Circle of Immortals]:
+"Don't break our oath, no
+Don't break the pact
+Stop, don't ruin your life, 
+Raise the knife
+This time you have gone too far
+Love can always be healed
+We absolved treachery
+Wake up from your reverie"
+
+[Research Center AI:]
+"Biocellular Research and Development Corporation, welcome. 
+Identification process, please wait... Success... Identity confirmed. 
+Good evening Doctor Otsuka. 
+Please, enter your authorization number to enter restricted high security zone and access nanotechnology area...
+Access denied.
+Sorry Doctor, you are not allowed to enter this sector anymore. 
+Calling security unit."
+
+[Security Unit:]
+"Sector 9 patrol to all units, this is an emergency. I repeat, this is an emergency, the intruder has been located at level 3. He is not armed, he is not armed, catch him alive. Over."
+"Come on let's go, let's go!"
+"Unit 5, the fugitive ran away through stairway B, he's going down right at you Unit 2. Over."
+"Roger, we hear you loud and clear, be careful but still get him alive, don't shoot! I repeat, do not shoot! Over."
+"Wilco. I've got a visual contact with the fugitive, he just turned left towards the building's basement. Over."
+"Roger we got him, we got him. The fugitive is neutralized. End of mission. Out."
+
+[Judge:]
+"Considering the critical nature of your schemes and after the jury's due deliberation, the court of the Circle of Immortals hereby sentences you to death. Take the prisoner away..."
+
