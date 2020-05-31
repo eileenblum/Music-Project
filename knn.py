@@ -63,3 +63,4 @@ plt.show()
 ##What does the best word model mean? 
 ##Word2vec can most accurately determine semantic similarity of a word based on x number of its neighbors
 ##Song lytics do tend to utilize semantically similar words based on genre?
+##depends on how accurate most accurate model is
