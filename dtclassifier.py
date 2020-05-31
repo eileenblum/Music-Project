@@ -25,7 +25,7 @@ import time #only need this to record runtime
 word2vec_clf = DecisionTreeClassifier(random_state = 440)
 start_time = time.time()
 # Fit the model
-word2vec_clf.fit(word2vec_df, Y_train['sentiment'])
+word2vec_clf.fit(word2vec_df, Y_train['genre'])
 print("Time taken to fit the model with word2vec vectors: " + str(time.time() - start_time))
 
 # Plot the fitted tree
@@ -44,4 +44,4 @@ for index, row in X_test.iterrows():
     else:
         test_features_word2vec.append(np.array([0 for i in range(1000)]))
 test_predictions_word2vec = clf_decision_word2vec.predict(test_features_word2vec)
-print(classification_report(Y_test['sentiment'],test_predictions_word2vec))
+print(classification_report(Y_test['genre'],test_predictions_word2vec))
