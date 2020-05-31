@@ -17,6 +17,8 @@ with open("word2vec.RM_model", 'rb') as f:
 #start by making a numpy array
 rmarray = np.array(rm_model)
 np.shape(rmarray)
+
+
 #then convert to pandas
 word2vec_df = pd.DataFrame(rmarray)
 
@@ -25,7 +27,7 @@ import time #only need this to record runtime
 word2vec_clf = DecisionTreeClassifier(random_state = 440)
 start_time = time.time()
 # Fit the model
-word2vec_clf.fit(word2vec_df, Y_train['genre'])
+word2vec_clf.fit(list(Pro_Lyrics_train.s_vector, type_train.type))
 print("Time taken to fit the model with word2vec vectors: " + str(time.time() - start_time))
 
 # Plot the fitted tree
