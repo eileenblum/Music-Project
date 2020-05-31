@@ -24,16 +24,16 @@ word2vec_df = pd.DataFrame(rmarray)
 
 import time #only need this to record runtime
 #decision tree classifier
-word2vec_clf = DecisionTreeClassifier(random_state = 440)
+Pro_Lyrics_train_clf = DecisionTreeClassifier(random_state = 440)
 start_time = time.time()
 # Fit the model
-word2vec_clf.fit(list(Pro_Lyrics_train.s_vector, type_train.type))
+Pro_Lyrics_train_clf.fit(list(Pro_Lyrics_train.s_vector, type_train.type))
 print("Time taken to fit the model with word2vec vectors: " + str(time.time() - start_time))
 
 # Plot the fitted tree
 plt.figure(figsize = (10,10))
-fig = word2vec_clf.fit(df[['x1','x2']], df.y)
-word2vec.plot_word2vec(fig,filled = True)
+fig = Pro_Lyrics_train_clf.fit(Pro_Lyrics_train.s_vector, type_train.type)
+Pro_Lyrics_train.plot_word2vec(fig,filled = True)
 plt.show()
 
 #generate classification report
@@ -46,4 +46,4 @@ for index, row in X_test.iterrows():
     else:
         test_features_word2vec.append(np.array([0 for i in range(1000)]))
 test_predictions_word2vec = clf_decision_word2vec.predict(test_features_word2vec)
-print(classification_report(Y_test['genre'],test_predictions_word2vec))
+print(classification_report(type_test['type'],test_predictions_word2vec))
