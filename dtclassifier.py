@@ -38,12 +38,5 @@ plt.show()
 
 #generate classification report
 from sklearn.metrics import classification_report
-test_features_word2vec = []
-for index, row in X_test.iterrows():
-    model_vector = np.mean([RM_model[token] for token in row['stemmed_tokens']], axis=0)
-    if type(model_vector) is list:
-        test_features_word2vec.append(model_vector)
-    else:
-        test_features_word2vec.append(np.array([0 for i in range(1000)]))
-test_predictions_word2vec = clf_decision_word2vec.predict(test_features_word2vec)
+test_predictions_word2vec = Pro_Lyrics_train_clf.predict(test_features_word2vec)
 print(classification_report(type_test['type'],test_predictions_word2vec))
